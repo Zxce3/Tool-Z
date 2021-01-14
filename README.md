@@ -16,7 +16,9 @@ Program zip-unzip dan kompres vidio
 </p> 
 
 # Fitur
-+ mesin kasir menghitung jumlah harga dan kembalian
++ ekstrak zip
++ kompres zip file
++ kompres vidio
 
 # INSTALL
 ```php
