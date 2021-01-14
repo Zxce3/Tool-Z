@@ -1,5 +1,6 @@
 # program Tool-Z
 # coded : Tegar Dev
+# Remake: Memet
 # file  : main.rb
 # date  : 14 Januari 2021 - 15 Januari 2021
 # time  : 04:16-0:19
