@@ -2,7 +2,7 @@
 # coded : Tegar Dev
 # file  : main.rb
 # date  : 14 Januari 2021 - 15 Januari 2021
-# time  : 21:50-0:49
+# time  : 04:16-0:19
 # note  : Recode tidak akan menjadikan mu mastah
 #         hargailah karya orang meskipun hanya sampah
 # All Right Reversed Dunia Kode ©2021
